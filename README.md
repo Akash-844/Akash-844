@@ -1,8 +1,8 @@
 <!-- ===================== HERO BANNER ===================== -->
-<!-- Change the text= value to edit the banner title -->
+<!-- The banner is a local file: edit assets/banner.svg to change the title -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8F0FE,100:BBDEFB&height=190&section=header&text=Sai%20Akash%20Bitra&fontSize=46&fontColor=1F2937&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20Frontend%20Developer&descSize=16&descColor=374151&descAlignY=60" alt="Sai Akash Bitra banner" />
+<img src="./assets/banner.svg" alt="Sai Akash Bitra banner" width="100%" />
 
 <!-- Animated typing text. Edit the lines= values, separated by semicolons -->
 <a href="https://github.com/Akash-844">
@@ -13,7 +13,7 @@
 
 ![Location](https://img.shields.io/badge/📍_Hyderabad,_India-2563EB?style=flat-square)
 ![Role](https://img.shields.io/badge/💼_Software_Engineer-0EA5E9?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=Akash-844&label=Profile+Views&color=60A5FA&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Akash-844?style=flat-square&logo=github&color=60A5FA)
 
 </div>
 
@@ -72,7 +72,7 @@ I'm **Sai Akash Bitra**, a Software Engineer from **Hyderabad, India**, with a B
 
 ## 🚀 Featured Projects
 
-<!-- To add a project, copy one of the tables below and edit it. -->
+<!-- To add a project, copy one of the sections below and edit it. -->
 
 ### 🏥 Hospital Management System
 
@@ -169,7 +169,5 @@ A personal note management application built to strengthen React component archi
 <br/>
 
 ⭐ *Thanks for stopping by! If you like my work, consider giving a star to my repositories.* ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BBDEFB,100:E8F0FE&height=100&section=footer" alt="footer" />
 
 </div>
